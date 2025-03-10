@@ -7,21 +7,21 @@ class ProductRepository {
             name = "Смартфон",
             description = "Мощный смартфон с отличной камерой",
             price = 29999.99,
-            imageUrl = "https://picsum.photos/300"
+            imageUrl = "https://"
         ),
         Product(
             id = 2,
             name = "Ноутбук",
             description = "Легкий и производительный ноутбук",
             price = 49999.99,
-            imageUrl = "https://picsum.photos/301"
+            imageUrl = "https://"
         ),
         Product(
             id = 3,
             name = "Наушники",
             description = "Беспроводные наушники с шумоподавлением",
             price = 12999.99,
-            imageUrl = "https://picsum.photos/302"
+            imageUrl = "https://"
         )
     )
 
